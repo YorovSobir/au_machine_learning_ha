@@ -1,0 +1,3 @@
+Black => train loss
+Green => test loss
+Blue => train - test loss
